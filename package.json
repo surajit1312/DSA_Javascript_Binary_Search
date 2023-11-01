@@ -7,7 +7,8 @@
     "p1_binary_search_sorted_array_iterative": "nodemon ./easy/p1_binary_search_sorted_array_iterative.js",
     "p2_binary_search_sorted_array_recursive": "nodemon ./easy/p2_binary_search_sorted_array_recursive.js",
     "p3_find_element_in_infinite_sorted_array": "nodemon ./easy/p3_find_element_in_infinite_sorted_array.js",
-    "p4_search_in_rotated_sorted_array": "nodemon ./easy/p4_search_in_rotated_sorted_array.js"
+    "p4_search_in_rotated_sorted_array": "nodemon ./easy/p4_search_in_rotated_sorted_array.js",
+    "p5_find_sqrt_of_number": "nodemon ./easy/p5_find_sqrt_of_number.js"
   },
   "keywords": [],
   "author": "",
