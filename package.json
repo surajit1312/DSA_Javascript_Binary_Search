@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "p1_binary_search_sorted_array_iterative": "nodemon ./easy/p1_binary_search_sorted_array_iterative.js",
-    "p2_binary_search_sorted_array_recursive": "nodemon ./easy/p2_binary_search_sorted_array_recursive.js"
+    "p2_binary_search_sorted_array_recursive": "nodemon ./easy/p2_binary_search_sorted_array_recursive.js",
+    "p3_find_element_in_infinite_sorted_array": "nodemon ./easy/p3_find_element_in_infinite_sorted_array.js"
   },
   "keywords": [],
   "author": "",
