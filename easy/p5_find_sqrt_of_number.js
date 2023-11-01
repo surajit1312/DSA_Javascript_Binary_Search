@@ -8,7 +8,7 @@ console.log(
 console.log("");
 
 /**
- * TC: O(n)
+ * TC: O(log(base2) N)
  * @param {*} n
  * @returns
  */
