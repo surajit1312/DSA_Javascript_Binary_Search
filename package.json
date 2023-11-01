@@ -4,7 +4,8 @@
   "description": "This is a repository to practice DSA Binary Search topic in Javascript language",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "p1_binary_search_sorted_array_iterative": "nodemon ./easy/p1_binary_search_sorted_array_iterative.js",
+    "p2_binary_search_sorted_array_recursive": "nodemon ./easy/p2_binary_search_sorted_array_recursive.js"
   },
   "keywords": [],
   "author": "",
