@@ -1,9 +1,9 @@
 console.log(
-  "~~~~~~~~~~~~~~~~~~~~~~~~~~~ LeetCode: 33. Search in Rotated Sorted Array ~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~ LeetCode: 33. Search in Rotated Sorted Array ~~~~~~~~~~~~~~~~~~~~~~~~~~~",
 );
 
 console.log(
-  "Link: https://leetcode.com/problems/search-in-rotated-sorted-array/"
+  "Link: https://leetcode.com/problems/search-in-rotated-sorted-array/",
 );
 console.log("");
 

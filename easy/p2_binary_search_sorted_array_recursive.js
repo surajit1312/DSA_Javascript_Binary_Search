@@ -1,5 +1,5 @@
 console.log(
-  "~~~~~~~~~~~~~~~~~~~~~~~~~~~ LeetCode 704. Binary Search - Recursive ~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~ LeetCode 704. Binary Search - Recursive ~~~~~~~~~~~~~~~~~~~~~~~~~~~",
 );
 console.log("Link: https://leetcode.com/problems/binary-search/");
 

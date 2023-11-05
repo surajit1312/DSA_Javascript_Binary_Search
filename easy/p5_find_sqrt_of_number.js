@@ -1,9 +1,9 @@
 console.log(
-  "~~~~~~~~~~~~~~~~~~~~~~~~~~~ Coding Ninjas: Square Root of a number ~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~ Coding Ninjas: Square Root of a number ~~~~~~~~~~~~~~~~~~~~~~~~~~~",
 );
 
 console.log(
-  "Link: https://www.codingninjas.com/studio/problems/square-root-integral_893351"
+  "Link: https://www.codingninjas.com/studio/problems/square-root-integral_893351",
 );
 console.log("");
 

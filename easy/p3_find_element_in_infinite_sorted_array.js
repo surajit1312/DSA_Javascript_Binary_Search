@@ -1,9 +1,9 @@
 console.log(
-  "~~~~~~~~~~~~~~~~~~~~~~~~~~~ LeetCode: Binary Search - Find Element in Infinite Sorted Array ~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~ LeetCode: Binary Search - Find Element in Infinite Sorted Array ~~~~~~~~~~~~~~~~~~~~~~~~~~~",
 );
 
 console.log(
-  "Link: https://leetcode.com/discuss/interview-experience/1979273/infinite-sorted-array"
+  "Link: https://leetcode.com/discuss/interview-experience/1979273/infinite-sorted-array",
 );
 console.log("");
 
@@ -2388,7 +2388,7 @@ const findElementByLinearSearch = function (nums, target, numOperations) {
 
 const linearSearchResult = findElementByLinearSearch(infinite_input, target, 0);
 console.log(
-  `${target} was found at index: ${linearSearchResult.index} after performing ${linearSearchResult.numOperations} operations`
+  `${target} was found at index: ${linearSearchResult.index} after performing ${linearSearchResult.numOperations} operations`,
 );
 
 const findElementByBinarySearch = function (nums, target, numOperations) {
@@ -2447,5 +2447,5 @@ const binarySearch = function (nums, low, high, numOperations) {
 
 const binarySearchResult = findElementByBinarySearch(infinite_input, target, 0);
 console.log(
-  `${target} was found at index: ${binarySearchResult.index} after performing ${binarySearchResult.numOperations} operations`
+  `${target} was found at index: ${binarySearchResult.index} after performing ${binarySearchResult.numOperations} operations`,
 );
